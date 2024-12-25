@@ -3,6 +3,8 @@
 
 Este projeto implementa um blog com funcionalidades de CRUD, permitindo a criação, visualização, edição e exclusão de posts. O objetivo principal é compreender na prática como o padrão MVC organiza a aplicação, separando as responsabilidades entre Modelos, Visões e Controladores.
 
+![image](https://github.com/user-attachments/assets/258b32d3-36d8-4723-a014-7eaab020fd5d)
+
 ## Estrutura do Projeto
 
 A estrutura do projeto é organizada da seguinte forma:
