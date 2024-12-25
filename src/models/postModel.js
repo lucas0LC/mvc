@@ -1,8 +1,8 @@
 let posts = [
   {
     id: "1",
-    title: "Introdução ao Node.js",
-    content: "Descubra como o Node.js revolucionou o desenvolvimento web com sua arquitetura orientada a eventos.",
+    title: "exemplo",
+    content: "Você sabia que a palavra 'exemplo' tem 56bits.",
     createdAt: new Date(),
     updatedAt: new Date(),
   },
